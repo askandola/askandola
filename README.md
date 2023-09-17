@@ -1,5 +1,5 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Arvinder Singh Kandola</h1>
-<h2 align="center" class="noborder">I am a second year Computer Engineering undergrad from India!</h2>
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center" class="noborder">I am a third year Computer Engineering undergrad from India!</h2>
 <br>
 
 
