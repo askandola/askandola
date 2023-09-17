@@ -24,6 +24,10 @@
 <img align="left" title="Python" alt="Python" height="35px"src="./logo/python.png"/>
 <img img align="left"  title="Django" alt="Django" height="35px" src="./logo/django.png"/>
 <img align="left"  title="Flask" alt="Flask" height="35px" src="./logo/flask.png" />
+<img align="left"  title="Kotlin" alt="Kotlin" height="35px" src="./logo/kotlin.png" />
+<img align="left"  title="Android Studio" alt="Android Studio" height="35px" src="./logo/android-studio.png" />
+<img align="left"  title="Docker" alt="Docker" height="35px" src="./logo/docker.png" />
+<img align="left"  title="Nginx" alt="Nginx" height="35px" src="./logo/nginx.png" />
 
 <br>
 <br>
