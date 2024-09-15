@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center" class="noborder">I am a third year Computer Engineering undergrad from India!</h2>
+<h2 align="center" class="noborder">I am a final year Computer Engineering undergrad from India!</h2>
 <br>
 
 
